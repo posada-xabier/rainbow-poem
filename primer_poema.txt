@@ -1,3 +1,5 @@
 orange
 blue 
-555
+verde
+vermello
+amarelo
